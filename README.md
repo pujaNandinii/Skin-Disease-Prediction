@@ -14,7 +14,11 @@ A Tkinter GUI application is provided where the user can upload an image and get
 
 ## Dataset
 
-Dataset used: HAM10000 skin disease dataset from Kaggle.
+Dataset used: Skin Cancer: Malignant vs Benign (Kaggle)
+It has,
+1. benign (healthy)
+2. malignant (diseased)
+Dataset link: https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign/
 
 ## How to Run
 
